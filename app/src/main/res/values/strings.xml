@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mornhouse</string>
+
+    <string name="fragment_interesting_fact_label">Interesting fact</string>
+    <string name="fragment_details_fact_label">Details fact</string>
+
+    <string name="fragment_interesting_fact_edit_text_hint">Enter number here</string>
+    <string name="fragment_interesting_fact_edit_text_number">Set number here</string>
+    <string name="fragment_interesting_fact_button_fact">Get the fact</string>
+    <string name="fragment_interesting_fact_button_random_fact">Get the fact about a random number</string>
+    <string name="fragment_interesting_fact_rv_content_description_history">Interesting fact history</string>
+
+
+    <string name="many_text">So many text...So many text...So many text...So many text...So many text...So many text...So many text...So many text...So many text...So many text...So many text...</string>
+
+</resources>
